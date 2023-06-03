@@ -41,17 +41,3 @@ And much more features.
 
     php artisan migrate:fresh --seed
 
-## ADMIN LOGIN PANEL
-
-    ADMIN PANEL URL: http://localhost:8000/it/TyRLsvMqw
-
-    username: jimipulsar@github.com
-    password: 123pie456
-
-## .ENV EXAMPLE
-
-    Check .env.example to set up application
-
-<p align="center"><img src="public/uploads/panel/admin-panel.jpg" width="860"></p>
-<p align="center"><img src="public/uploads/panel/admin-panel-orders.jpg" width="860"></p>
-
